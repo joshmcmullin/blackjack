@@ -1,0 +1,157 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.hitButton {
+  background-color: #F44336;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-shadow: 1px 1px #C04336;
+  box-shadow: 2px 2px #30343B;
+  margin-top: 3%;
+  margin-right: 1%;
+}
+
+.standButton {
+  background-color: #4CAF50;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-shadow: 1px 1px #429945;
+  box-shadow: 2px 2px #30343B;
+  margin-top: 3%;
+}
+
+.playButton {
+  background-color: #FCC50D;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-shadow: 1px 1px #E6B30B;
+  box-shadow: 2px 2px #30343B;
+  margin-top: 3%;
+}
+
+.dealButton {
+  background-color: #FCC50D;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-shadow: 1px 1px #E6B30B;
+  box-shadow: 2px 2px #30343B;
+  margin-top: 3%;
+}
+
+.increase-bet {
+  background-color: #4CAF50;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-shadow: 1px 1px #429945;
+  box-shadow: 2px 2px #30343B;
+  margin-top: 3%;
+}
+
+.decrease-bet {
+  background-color: #F44336;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-shadow: 1px 1px #C04336;
+  box-shadow: 2px 2px #30343B;
+  margin-top: 3%;
+  margin-right: 1%;
+}
+
+.body-div {
+  position: relative;
+}
+
+.bet {
+  position: absolute;
+  width: 20%;
+  top: 40%;
+  left: 10%;
+}
+
+.chip-count {
+  margin: 0;
+  position: absolute;
+}
+
+.bet-buttons {
+}
+
+.displayNone {
+  display: none;
+}
+
+.hidden {
+  visibility: hidden;
+  width: 0%;
+}
+
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 8%;
+  display: inline;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
